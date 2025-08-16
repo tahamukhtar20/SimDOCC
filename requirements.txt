@@ -1,0 +1,7 @@
+torch
+torchvision
+tqdm
+scikit-learn
+albumentations
+tensorboard
+numpy==1.26.4
